@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedido>
+    <cliente>
+        <nome>Maria</nome>
+    </cliente>
+    <itens>
+        <item>Notebook</item>
+        <item>Mouse</item>
+    </itens>
+</pedido>
